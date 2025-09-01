@@ -7,7 +7,7 @@
 ## 📬 Contact Me  
 <div align="left">
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/ahmed-yasser-34a65b251/](https://www.linkedin.com/in/youssef-safwat-991ab8251/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/youssef-safwat-991ab8251/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youssefsafwat2004@gmail.com)
 
 </div>
